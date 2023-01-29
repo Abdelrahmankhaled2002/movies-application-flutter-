@@ -1,6 +1,6 @@
 # movies_app
 
-A new Flutter project.
+A new Flutter project built using clean architecture principles.
 
 ## Getting Started
 
